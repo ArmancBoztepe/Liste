@@ -4,7 +4,8 @@ meme_dict = {
     "ROFL": "Bir şakaya karşılık cevap",
     "SHEESH": "Onaylamamak",
     "CREEPY": "Korkunç",
-    "AGGRO": "Agresifleşmek/sinirlenmek"
+    "AGGRO": "Agresifleşmek/sinirlenmek",
+    "araba":"tekerli karada giden araç"
 }
 
 while True:
